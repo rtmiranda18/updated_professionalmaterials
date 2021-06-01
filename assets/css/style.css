@@ -1,0 +1,44 @@
+.background {
+    background-image: url("../images/webdev1.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.header {
+    background-color: #d418185d;
+    padding: 15px 20px;
+    min-height: 150px;
+    float: left;
+    width: 100%;
+
+}
+
+.header .header_details h1 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header .header_details p {
+    color: #fff;
+    font-size: 20px;
+    margin: -5px 0 0;
+    font-style: italic;
+}
+
+.header .header_details .header_left {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
