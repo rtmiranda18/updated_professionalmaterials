@@ -148,3 +148,40 @@
 #myprojects .projects .project .project_box img {
     width: 100%;
 }
+
+.contact {
+    margin: 50px 0;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.contact .contact_box {
+    color: #fff;
+    align-items: center;
+    text-align: center;
+}
+
+.contact .contact_box h2 {
+    margin-bottom: 20px;
+}
+
+.contact .contact_box ul {
+    text-align: left;
+    padding: 0 55px;
+}
+
+.contact .contact_box ul li {
+    margin-bottom: 15px;
+    list-style: none;
+}
+
+.contact .contact_box ul li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 5px;
+}
+
+.contact .contact_box ul li img {
+    float: left;
+}
